@@ -1,2 +1,7 @@
 streamlit
 ollama-client
+langchain
+faiss-cpu
+openai
+python-dotenv
+tiktoken
